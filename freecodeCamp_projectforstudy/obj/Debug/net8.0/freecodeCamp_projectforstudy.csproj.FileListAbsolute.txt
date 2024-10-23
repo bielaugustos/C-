@@ -12,3 +12,4 @@
 /Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.pdb
 /Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.genruntimeconfig.cache
 /Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/ref/freecodeCamp_projectforstudy.dll
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.sourcelink.json
