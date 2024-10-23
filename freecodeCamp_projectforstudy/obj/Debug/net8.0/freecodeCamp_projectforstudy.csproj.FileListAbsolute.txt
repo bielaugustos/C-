@@ -1,0 +1,14 @@
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/bin/Debug/net8.0/freecodeCamp_projectforstudy
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/bin/Debug/net8.0/freecodeCamp_projectforstudy.deps.json
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/bin/Debug/net8.0/freecodeCamp_projectforstudy.runtimeconfig.json
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/bin/Debug/net8.0/freecodeCamp_projectforstudy.dll
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/bin/Debug/net8.0/freecodeCamp_projectforstudy.pdb
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.AssemblyInfoInputs.cache
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.AssemblyInfo.cs
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.csproj.CoreCompileInputs.cache
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.dll
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/refint/freecodeCamp_projectforstudy.dll
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.pdb
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/freecodeCamp_projectforstudy.genruntimeconfig.cache
+/Users/gabrielaugusto/www/C#/freecodeCamp_projectforstudy/obj/Debug/net8.0/ref/freecodeCamp_projectforstudy.dll
